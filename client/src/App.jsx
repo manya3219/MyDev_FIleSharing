@@ -7,6 +7,8 @@ import {BrowserRouter,Routes,Route}from'react-router-dom'
 import Project from './pages/Project'
 import Login from './pages/Login'
 import Dashboard from './pages/Dashboard'
+import Foot from './components/Foot'
+
 
 export default function App() {
   return (
@@ -22,6 +24,7 @@ export default function App() {
       <Route path="/dashboard" element={<Dashboard/>}/>
       <Route path="/Project" element={<Project/>}/>
    </Routes>
+   <Foot/>
   
   </BrowserRouter>
   )
