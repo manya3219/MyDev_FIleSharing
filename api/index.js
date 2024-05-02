@@ -6,6 +6,7 @@ import authRoutes from'./routes/auth.route.js';
 import cookieParser from 'cookie-parser';
 import path from 'path';
 import postRoutes from'./routes/post.route.js';
+
 dotenv.config();
 mongoose.connect(process.env.MONGO)
 .then(()=>{
@@ -15,6 +16,9 @@ mongoose.connect(process.env.MONGO)
     console.log(err);
 })
 const app=express();
+//const cors = require('cors');
+
+//app.use(cors())
 
 app.use(express.json());
 app.use(cookieParser());
