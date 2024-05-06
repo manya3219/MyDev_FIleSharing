@@ -3,6 +3,7 @@ import{useEffect,useState} from 'react';
 import { useLocation } from 'react-router-dom';
 import DashSidebar from '../components/DashSidebar';
 import DashPosts from '../components/DashPosts';
+import DashUsers from '../components/DashUsers';
 
 import DashProfile from '../components/DashProfile';
 
@@ -28,6 +29,8 @@ useEffect(()=>{
     {tab==='profile'&&<DashProfile/>}
     {/*Posts*/}
     {tab==='posts'&&<DashPosts/>}
+    {/*users*/}
+    {tab==='users'&&<DashUsers/>}
     </div>
   )
 }
