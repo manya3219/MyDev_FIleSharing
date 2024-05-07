@@ -7,6 +7,7 @@ import DashUsers from '../components/DashUsers';
 import DashComments from '../components/DashComments';
 
 import DashProfile from '../components/DashProfile';
+import DashboardComp from '../components/DashboardComp';
 
 export default function Dashboard() {
   const location=useLocation();
@@ -34,6 +35,8 @@ useEffect(()=>{
     {tab==='users'&&<DashUsers/>}
     {/*comments*/}
     {tab==='comments'&&<DashComments/>}
+    {/*dashboard comp*/}
+    {tab === 'dash' && <DashboardComp/>}
     </div>
   )
 }
