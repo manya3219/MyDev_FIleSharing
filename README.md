@@ -113,7 +113,7 @@ Make sure you have the following installed:
 
 
 ### Dashboard
-![Dashboard](images/Dashboard.png)
+![Dashboard](images/dashboard.png)
 
 
 ## Contributing
