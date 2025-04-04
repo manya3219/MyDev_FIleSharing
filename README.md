@@ -75,13 +75,40 @@ Make sure you have the following installed:
 ### Home Page
 ![Home Page](images/home.png)
 
+### About Page
+![About Page](images/about.png)
+
+### PDF Section
+![PDF Section](images/pdf.png)
+
+
+### Blog Section
+![Blog Section](images/blog.png)
+
+### Video  Section
+![Video Section](images/video.png)
+
+
+### Admin Profile
+![Admin Profile](images/AdminProfile.png)
+
+### Home Page
+![Home Page](images/home.png)
+
+
+
+### Users Handling Page
+![Users Handling Page](images/userprofiles.png)
+
+
+
 
 ### Create Blog Post Page
 ![Create Blog Post](images/createpost.png)
 
 
-###  Blog Post Page
-![Blog Post Page](images/blogpage.png)
+###  File Uploading
+![Blog Post Page](images/uploadfile.png)
 
 
 
