@@ -85,7 +85,7 @@ Make sure you have the following installed:
 ### Blog Section
 ![Blog Section](images/blog.png)
 
-### Video  Section
+### Video Section(For Admin)
 ![Video Section](images/video.png)
 
 
