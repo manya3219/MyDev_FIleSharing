@@ -92,9 +92,6 @@ Make sure you have the following installed:
 ### Admin Profile
 ![Admin Profile](images/AdminProfile.png)
 
-### Home Page
-![Home Page](images/home.png)
-
 
 
 ### Users Handling Page
