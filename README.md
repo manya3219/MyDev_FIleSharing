@@ -44,7 +44,7 @@ A full-stack **Notes Sharing Application** built using the **MERN stack** (Mongo
 ### 🛠️ Admin Profile
 ![Admin Dashboard](images/AdminProfile.png)
 
-### 👤 User Profile
+### 👤 User Profiles
 ![User Profile](images/userprofiles.png)
 
 ### 🖥️ Dashboard View
