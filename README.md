@@ -36,16 +36,16 @@ A full-stack **Notes Sharing Application** built using the **MERN stack** (Mongo
 ![Login Page](images/login.png)
 
 ### 🏡 Home
-![Home](images/Home.png)
+![Home](images/home.png)
 
 ### 📞 About
-![About](images/About.png)
+![About](images/about.png)
 
 ### 🛠️ Admin Profile
 ![Admin Dashboard](images/AdminProfile.png)
 
 ### 👤 User Profile
-![User Profile](images/userprofile.png)
+![User Profile](images/userprofiles.png)
 
 ### 🖥️ Dashboard View
 ![Dashboard ](images/dashboard.png)
