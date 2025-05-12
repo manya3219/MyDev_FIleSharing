@@ -27,6 +27,40 @@ A full-stack **Notes Sharing Application** built using the **MERN stack** (Mongo
 **Authentication:**
 - Firebase Authentication (Email/Password or Google Sign-In)
 
-## 📁 Project Structure
+## 📷 Screenshots
+
+### 🔐 Signup Page
+![Signup Page](images/signup.png)
+
+### 🔑 Login Page
+![Login Page](images/login.png)
+
+### 🏡 Home
+![Home](images/Home.png)
+
+### 📞 About
+![About](images/About.png)
+
+### 🛠️ Admin Profile
+![Admin Dashboard](images/AdminProfile.png)
+
+### 👤 User Profile
+![User Profile](images/userprofile.png)
+
+### 🖥️ Dashboard View
+![Dashboard ](images/dashboard.png)
+
+### 📄 Upload Document
+![Document Upload](images/uploadfile.png)
+
+### 🎥 Video Playlist
+![Video Upload](images/video.png)
+
+### 📚 PDF View
+![Playlist](images/pdf.png)
+
+### 🌟 Blog View
+![Blog View](images/blog.png)
+
 
 
