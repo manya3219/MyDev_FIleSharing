@@ -1,6 +1,6 @@
-# 📝 NexaHub -- (Notes Sharing Application)
+# 📝 NexaHub -- (Study Website)
 
-A full-stack *Notes Sharing Application* built using the *MERN stack* (MongoDB, Express, React, Node.js) with *Firebase Authentication* for secure user login. This app allows users to create, manage, and share notes seamlessly across devices.
+A full-stack *NexaHub* built using the *MERN stack* (MongoDB, Express, React, Node.js) with *Firebase Authentication* for secure user login. This app allows users to create, manage, and share notes seamlessly across devices.
 
 ## 🚀 Features
 
